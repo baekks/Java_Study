@@ -1,4 +1,5 @@
 package sec1;
+
 // 변수의 타입
 public class Variable02 {
 
