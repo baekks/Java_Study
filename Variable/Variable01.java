@@ -1,4 +1,5 @@
 package sec1;
+
 /*
     1. 변수(Variable)와 상수(Constant)의 선언(Dimension)과 할당(Allocation)
     2. 전역(Global=외부 변수) 변수와 지역(Local=내부 변수) 변수
