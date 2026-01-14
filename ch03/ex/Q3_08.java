@@ -1,0 +1,15 @@
+package sec1;
+
+public class Q3_08 {
+    public static void main(String[] args) {
+        int mathScore = 90;
+        int engScore = 70;
+        int korScore = 80;
+
+        int totalScore = mathScore + engScore + korScore;
+        System.out.println(totalScore);     // 240
+
+        double avgScore = totalScore / 3.0;
+        System.out.println(avgScore);       // 88
+    }
+}
